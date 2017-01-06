@@ -1,0 +1,1 @@
+var adminApp = angular.module('meanAdmin', ['compPass.directives']);
